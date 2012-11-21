@@ -1,5 +1,4 @@
 docutils==0.9.1
 funkload==1.16.1
-tcpwatch==1.2.1
 webunit==1.3.10
 wsgiref==0.1.2
