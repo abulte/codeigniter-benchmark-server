@@ -7,7 +7,7 @@ Based on :
 	
 I use it to make simple Php/MySQL benchmarks on servers.
 
-See the benchmark script in *TODO*
+See the funkload benchmark "client" script at <https://github.com/abulte/codeigniter-benchmark-client>
 
 Pages :
 
@@ -15,3 +15,7 @@ Pages :
 * `/news` - list of news objects
 * `/news/create` - form to create a news
 * `/news/<slug>` - view a news
+
+Set MySQL login & password in `application/config/database.php`.
+    
+    
